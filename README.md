@@ -79,10 +79,6 @@
 </table> 
 <br><br>
 
-### <p>Tanggal Rilis</p>
-**Release date : 4 April 2023**
-> Siapapun diperbolehkan untuk fork/clone atau develop project ini dan berikan project stars dan follow akun saya juga oke, karena ini merupakan project yang saya buat ketika UKK
-
 ------------
 ## 💻 Panduan Instalasi Project
 
@@ -135,11 +131,10 @@ username: cashier
 password: asd321 
 ```
 
-## 🧑 Pemilik
+## Daftar Referensi
+🧑 Pemilik
 
 👤  <a href="https://www.instagram.com/arilanaskar_/"> **Ariel Anaskar**</a>
 - Facebook : <a href="https://web.facebook.com/ariel.anaskar.95"> Ariel Anaskar</a>
 
-## Contributing
-Contributions, issues and feature requests di persilahkan.
-Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi.
+
