@@ -1,4 +1,4 @@
-## IDENTITAS
+## Identitas
 NAMA  : NUR AZIZAH WULANDARI
 
 NIM   : 12030122120047
@@ -6,7 +6,7 @@ NIM   : 12030122120047
 KELAS : SIA KELAS A
 
 
-## TAMPILAN 
+## Tampilan Logo  
 <p align="center">
 <img src="https://i.ibb.co/Ps2bhfH/logo5.png" width="200px">
 </p>
