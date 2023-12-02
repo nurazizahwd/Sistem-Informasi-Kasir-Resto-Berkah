@@ -1,3 +1,10 @@
+## IDENTITAS
+NAMA  : NUR AZIZAH WULANDARI
+
+NIM   : 12030122120047
+
+KELAS : SIA KELAS A
+
 <p align="center">
 <img src="https://i.ibb.co/Ps2bhfH/logo5.png" width="200px">
 </p>
@@ -116,7 +123,7 @@ php artisan route:clear
 php artisan serve
 ```
 
-5. **Akun Login**
+6. **Akun Login**
 ```bash
 Admin
 username: admin
