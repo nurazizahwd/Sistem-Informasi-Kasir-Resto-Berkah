@@ -88,7 +88,7 @@ KELAS : SIA KELAS A
 </table> 
 <br><br>
 
-** Tampilan Login sebagai Admin**
+## Tampilan Login sebagai Admin 
 --![WhatsApp Image 2023-12-02 at 22 35 15_6e3994f3](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/88f0c3b7-ce3c-4603-8d4e-8b79fedf88b8)
 
 ![WhatsApp Image 2023-12-02 at 22 36 32_8efdd866](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/55ef7836-6f5e-4509-a69e-3ba405b540aa)
@@ -100,8 +100,29 @@ KELAS : SIA KELAS A
 ![WhatsApp Image 2023-12-02 at 22 39 13_b02e9089](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a014d86a-417a-4870-8786-8d4aa460bbeb)
 
 
-----------
+## Tampilan Login sebagai Manajer
+![WhatsApp Image 2023-12-02 at 22 44 23_32148e2c](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/3db13ca6-92fe-43e3-9c53-03048e72cfa2)
 
+![WhatsApp Image 2023-12-02 at 22 44 47_123f5784](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/4557b652-ead3-482b-9fbe-0f2e3ee9f76b)
+
+![WhatsApp Image 2023-12-02 at 22 46 48_9985ac29](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/c6b1012a-0b30-4675-ab52-b05f2d6dd764)
+
+![WhatsApp Image 2023-12-02 at 22 47 06_52f6b9bb](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/df290272-8e94-416c-90ed-778ca0ffb825)
+
+![WhatsApp Image 2023-12-02 at 22 47 25_846a40a7](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a6695744-6132-460f-b186-fe7d6569f0dc)
+
+![WhatsApp Image 2023-12-02 at 22 48 06_bc4f9ddc](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/888cf90b-0c35-4a18-a3df-d2f7046c93ed)
+
+![WhatsApp Image 2023-12-02 at 22 48 48_0317c6a3](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a84f91cc-2c18-4c87-bbd8-2f08a7a91ba9)
+
+## Tampilan Login sebagai Manajer
+![WhatsApp Image 2023-12-02 at 22 49 32_81f170bf](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/7f444284-37a8-42ca-9b6b-8ef558f72562)
+
+![WhatsApp Image 2023-12-02 at 22 49 46_2d871547](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a46fa4f8-4255-41ef-9115-5b7faa5a30c6)
+
+![WhatsApp Image 2023-12-02 at 22 50 05_7e2765ae](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/56035a2a-9c42-44c0-8e77-097e780930e6)
+
+----------
 ## 💻 Panduan Instalasi Project
 
 1. **Clone Repository**
