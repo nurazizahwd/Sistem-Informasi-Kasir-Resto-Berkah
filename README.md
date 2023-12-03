@@ -161,6 +161,10 @@ KELAS : SIA KELAS A
     ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/f8fed09e-9d21-4a8b-9f08-3a209373a7c5)
    
 --------------
+## Designer
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/04071fff-4192-4952-9fcd-4d7385f7e0c7)
+
+--------------
 ## 💻 Panduan Instalasi Project
 
 1. **Clone Repository**
