@@ -115,7 +115,7 @@ KELAS : SIA KELAS A
 
 ![WhatsApp Image 2023-12-02 at 22 48 48_0317c6a3](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a84f91cc-2c18-4c87-bbd8-2f08a7a91ba9)
 
-## Tampilan Login sebagai Manajer
+## Tampilan Login sebagai Kasir
 ![WhatsApp Image 2023-12-02 at 22 49 32_81f170bf](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/7f444284-37a8-42ca-9b6b-8ef558f72562)
 
 ![WhatsApp Image 2023-12-02 at 22 49 46_2d871547](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a46fa4f8-4255-41ef-9115-5b7faa5a30c6)
