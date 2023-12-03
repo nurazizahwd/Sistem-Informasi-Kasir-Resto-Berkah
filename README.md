@@ -88,7 +88,20 @@ KELAS : SIA KELAS A
 </table> 
 <br><br>
 
-------------
+** Tampilan Login sebagai Admin**
+--![WhatsApp Image 2023-12-02 at 22 35 15_6e3994f3](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/88f0c3b7-ce3c-4603-8d4e-8b79fedf88b8)
+
+![WhatsApp Image 2023-12-02 at 22 36 32_8efdd866](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/55ef7836-6f5e-4509-a69e-3ba405b540aa)
+
+![WhatsApp Image 2023-12-02 at 22 38 29_f35c16f2](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/b45c7127-8be0-41c7-8d75-5b1488e1c1e2)
+
+![WhatsApp Image 2023-12-02 at 22 38 53_a2dd69b9](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/362ecd4e-025f-4a50-ad74-dd9c34e91d87)
+
+![WhatsApp Image 2023-12-02 at 22 39 13_b02e9089](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a014d86a-417a-4870-8786-8d4aa460bbeb)
+
+
+----------
+
 ## 💻 Panduan Instalasi Project
 
 1. **Clone Repository**
