@@ -99,7 +99,6 @@ KELAS : SIA KELAS A
 
 ![WhatsApp Image 2023-12-02 at 22 39 13_b02e9089](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a014d86a-417a-4870-8786-8d4aa460bbeb)
 
-
 ## Tampilan Login sebagai Manajer
 ![WhatsApp Image 2023-12-02 at 22 44 23_32148e2c](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/3db13ca6-92fe-43e3-9c53-03048e72cfa2)
 
@@ -123,6 +122,45 @@ KELAS : SIA KELAS A
 ![WhatsApp Image 2023-12-02 at 22 50 05_7e2765ae](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/56035a2a-9c42-44c0-8e77-097e780930e6)
 
 ----------
+
+## Database di XAMPP
+1. **app_kasir_restoran**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/28e271c5-57f4-4e72-8675-a1dcf8516a4f)
+
+2. **activity_logs**
+![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/f32d7ac4-6235-499c-9f42-2b824df4ef4f)
+
+2. **activity_logs**
+   ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/4e72944f-db9d-4402-8ccb-d78a580d6da4)
+
+4. **failed_jobs**
+   ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/031ff861-6204-4554-9eda-3f9beb30c34b)
+
+6. **levels**
+   ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/9d74f169-fc98-4f2e-bdb9-4eccb2b71d33)
+
+8. **menus**
+   ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a2384af2-bbe0-4c58-9f13-235c9e006133)
+
+10. **migrations**
+    ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/12bd3752-cc64-49b6-a57e-7e2d74034510)
+
+12. **password_resets**
+    ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/5c2b22c7-53c2-49c1-bec4-7414b25ad0ef)
+
+14. **personal_acces_tokens**
+    ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/a38339e2-308a-4eaf-943e-146f28aede8d)
+
+16. **transactions**
+    ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/88f048aa-e1fd-4aee-9e54-6bc9ddb480f3)
+
+18. **transactions_details**
+    ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/cc7c0051-e14e-4093-a50b-b31880408394)
+
+20. **users**
+    ![image](https://github.com/nurazizahwd/Sistem-Informasi-Kasir-Resto-Berkah/assets/151890058/f8fed09e-9d21-4a8b-9f08-3a209373a7c5)
+   
+--------------
 ## 💻 Panduan Instalasi Project
 
 1. **Clone Repository**
